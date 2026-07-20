@@ -132,7 +132,7 @@ Posts
 
 ### 📸 Interface Screenshots
 
-<https://github.com/user-attachments/assets/9f4ddbd6-d2f3-407f-9fee-47bc93b1a6cf/>
+<img width="450" height="280" alt="job page" src="https://github.com/user-attachments/assets/9f4ddbd6-d2f3-407f-9fee-47bc93b1a6cf"/>
 <img width="450" height="280" alt="job page" src="https://github.com/user-attachments/assets/8f1c0e5b-ff0b-4ff5-964c-72fb751b44d7" />
 <img width="450" height="280" alt="profile page" src="https://github.com/user-attachments/assets/0fcf8da7-61dd-43b6-bcfc-d78adc2bf1bd" />
 <img width="450" height="280" alt="" src="https://github.com/user-attachments/assets/7b4bf29c-0465-457b-9824-4c202b0f9c0e" />
